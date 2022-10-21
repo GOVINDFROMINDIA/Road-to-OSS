@@ -542,5 +542,13 @@
 		"current_pos": "Data Scientist",
 		"image": "mubarakmayyeri.jpg",
 		"bio": "Aspiring Data Scientist, have experience in Python web developement."
+	},
+	{
+		"name": "Rohith",
+		"gh_username": "Ratking",
+		"place": "Kerala",
+		"current_pos": "Data Scientist",
+		"image": "null",
+		"bio": "Aspiring Data Scientist, have experience in Python web developement."
 	}
 ]
